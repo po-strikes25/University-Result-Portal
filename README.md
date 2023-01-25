@@ -1,2 +1,2 @@
 # University-Result-Portal
-An interactive University Result application. 
+A GUI-based interactive University Result application. 
